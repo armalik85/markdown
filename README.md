@@ -1,5 +1,4 @@
-# markdown
-Markdown learning with Dr Aammar 
+# Markdown learning with Dr Aammar 
 # 1- Headings
 
 How to give headings in markdown files
